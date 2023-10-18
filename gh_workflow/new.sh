@@ -1,10 +1,10 @@
 #!/bin/bash
 
 
-export gt=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
-gh_username=krutartha
+gt=$github_token
+gh_username=$github_username
 project_dir=Desktop/projects
-repo_name=resume
+repo_name=$1
 
 
 create_dir() {

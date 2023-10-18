@@ -2,4 +2,4 @@
 
 ##### Currently, I have the following automations:
 * Github Repo Automation :fire:
-* Latex Environment Automation
+* LaTeX Environment Automation
